@@ -1,0 +1,2 @@
+<h1>Palabra grande</h1>
+<h2>Palabra menos grande</h2>
